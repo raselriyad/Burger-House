@@ -1,0 +1,458 @@
+/* common start */
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size:  16px;
+	font-weight: 400;
+	color: #000000;
+}
+/* common end */
+/* header start */
+header{
+	background-color: #ddf3dd;
+	padding: 10px 0;
+}
+.header{
+	background: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/* min-height: 700px; */
+}
+.bb{
+	margin-bottom: -16px;
+}
+.ber{}
+.ber p{
+	font-weight: 600;
+}
+.img1{}
+.img1 img{
+	width: 100%;
+}
+.cnav{
+	padding: 0;
+}
+.logo{
+	width: 100%;
+}
+.menu{}
+.menu ul li a{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 10px !important;
+    color: #626262 !important;
+    text-transform: uppercase;
+    transition: 1s;
+}
+}
+.menu ul li a:hover {
+    color: #FFEE63 !important;
+}
+
+.h_text{
+	padding: 100px 0;
+}
+.h_p{
+    padding: 5px;
+    text-transform: uppercase;
+    border: 2px dashed black;
+}
+.h_text h1{
+    font-family: fantasy;
+    font-size: 100px;
+	font-weight: 600;
+	margin: 0 auto;
+	color: #3D2514;
+    letter-spacing: 13px;
+    text-transform: uppercase;
+    text-shadow: 1px 8px 4px #ffedd2;
+}
+
+.h_text h2{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 600;
+	margin: 0;
+	color: #3D2514;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    text-shadow: 1px 8px 4px #fff7ec;
+}
+.img11{}
+.img11 img{
+	width: 100%;
+}
+.brt{
+	position: absolute;
+    border: none;
+    border-radius: 78px;
+    background-color: #bf2222;
+    height: 150px;
+    width: 150px;
+    top: 450px;
+}
+.red_e{
+	position: absolute;
+    border: 3px dashed white;
+    border-radius: 60px;
+    height: 125px;
+    width: 125px;
+    top: 73%;
+    margin-left: 1%;
+}
+.red_e p{
+	margin: 0;
+    font-family: fantasy;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.pp{
+	margin: 0;
+    font-family: fantasy;
+    font-size: 40px;
+    color: white;
+}
+.oy{
+	margin: 0;
+    font-family: fantasy;
+    font-size: 23px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    word-spacing: 2px;
+}
+
+/* header end*/
+/* testi start */
+.testi{
+	margin: 50px 0;
+}
+
+.f_item{
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.imga{
+	background: url(../images/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	border-radius: 10px;
+}
+.imgs{
+	background: url(../images/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+.imgss{
+	background: url(../images/img4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.im_1{
+	margin: 0;
+    margin-left: 10px;
+    padding: 20px 0 190px;
+}
+.im_1 h2{
+	margin-bottom: 0;
+    font-size: 18px;
+	font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+}
+.im_1 h1{
+	margin-top: 0;
+    margin-bottom: 80px;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+}
+
+.im_2{
+	margin: 0;
+    margin-left: 10px;
+    padding: 20px 0 20px;
+    width: 40%;
+}
+.im_2 h2{
+	margin-bottom: 0;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    text-transform: uppercase;
+}
+.im_2 h1{
+	margin-top: 0;
+    margin-bottom: 26px;
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+
+.im_3{
+	margin: 0;
+    margin-left: 10px;
+    padding: 20px 0 30px;
+    width: 40%;
+}
+.im_3 h2{
+	margin-bottom: 0;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    text-transform: uppercase;
+}
+.im_3 h1{
+	margin-top: 0;
+    margin-bottom: 35px;
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+
+
+/* testimonial end */
+/* feature start */
+.feature{
+	padding: 20px 0 20px;
+}
+.buton{
+	margin: 20px 0 20px;
+	text-align: center;
+}
+.buton a{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 20px;
+    color: black;
+    background-color: #FDC80F;
+	text-decoration: none;
+    text-transform: uppercase;
+	transition: 1s;
+}
+.buton a:hover{
+	color: #57C5B6;
+}
+.c_title h1{
+	font-family: tahoma;
+    font-size: 42px;
+    font-weight: bold;
+	text-align: center;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+.c_title p{
+	margin-bottom: 50px;
+    font-size: 15px;
+	text-align: center;
+    line-height: 25px;
+    padding: 0 100px 0;
+}
+.f_im{
+	margin-bottom: 75px;
+}
+.s_feature{
+	text-align: center;
+	padding: 0 0 30px;
+	border-radius: 10px;
+	transition: .3s;
+}
+.f-img{}
+.f-img img{
+	width: 100%;
+	border-radius: 10px;
+}
+.s_feature h2 {
+    font-family: tahoma;
+    font-size: 28px;
+    margin: 20px 0 0;
+    text-transform: uppercase;
+}
+.s_feature p{
+	margin-top: 15px;
+    line-height: 25px;
+}
+.s_feature a{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 20px;
+    color: black;
+    background-color: #FDC80F;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 1s;
+}
+.buy{
+	margin-top: 20px;
+}
+
+/* feature end */
+/* content start */
+.cocntent{
+	margin: 50px 0 100px;
+}
+.ct_text {
+    margin-top: 55px;
+    margin-right: 160px;
+}
+.ct_text h2{
+	margin: 0;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.ct_text h1{
+	margin-bottom: 30px;
+    font-family: serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.ct_text p{
+	margin: 0;
+    line-height: 25px;
+}
+.ct_img{}
+.ct_img img{
+	width: 100%;
+}
+
+/* content end */
+/* form start */
+.form{}
+.fo_img{}
+.fo_img img{
+	width: 100%;
+}
+.e_img{
+	margin-top: 30px;
+}
+.zz{
+	text-align: center;
+}
+.zz h2{
+	margin: 0;
+    font-family: fantasy;
+    font-size: 16px;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.zz h1{
+	margin-top: 0;
+    font-family: serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.e_img form input[type="text"] {
+    margin: 10px 10px;
+    font-size: smaller;
+    padding: 15px 10px;
+    width: 345px;
+    border: 1px solid black;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+.e_img form button[type="submit"] {
+    margin: 12px 10px;
+    padding: 15px 115px;
+    font-size: 15px;
+    font-weight: 800;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    color: white;
+    background-color: #67030F;
+    transition: 1s;
+}
+.e_img form button[type="submit"]:hover{
+	background-color: #D6EFED;
+	color: black;
+}
+.of_im{
+	margin-top: 45px;
+}
+.of_im img{
+	width: 100%;
+}
+/* form end */
+/* background star */
+.background {
+    margin-top: 50px;
+    margin-bottom: 50px;
+	background: url(../images/img12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.backgroun{
+}
+.contant{
+	padding: 100px 0 50px;
+}
+.back{}
+.img2{
+	margin-bottom: 40px;
+}
+.img2 img{
+	width: 100%;
+}
+.back p{
+	color: white;
+    line-height: 32px;
+}
+.a_bachg{
+	padding: 240px 0 0 100px;
+}
+.a_bachg a{
+	font-size: 22px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.a_bachg p{
+    margin-top: -30px;
+    margin-left: 45px;
+	color: white;
+}
+.a_bachg a i{
+	margin-left: 5px;
+    font-size: 22px;
+}
+.t_op p{
+	font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 0px 2px 3px #f8f8f8;
+}
+.sim{
+	padding: 0px 0 40px;
+}
+.to_p{}
+.to_p ul{}
+.to_p ul li{
+	display: inline;
+    list-style: none;
+    margin: 5px;
+}
+.to_p ul li a{
+	padding: 10px 12px;
+    background-color: white;
+    color: black;
+    border-radius: 40px;
+}
+/* background end */
